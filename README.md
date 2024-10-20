@@ -1,6 +1,5 @@
 # Tetris Game
-
-![2024-10-20_11-41-31](https://github.com/user-attachments/assets/ba892754-f848-4a94-9cf9-3bd41564382b)
+![2024-10-20_11-56-17 (1)](https://github.com/user-attachments/assets/8ec2d5f8-452f-4848-b8c0-e9392b1d5327)
 
 ## Project Overview
 This is a simple Tetris game built using Node.js, HTML, CSS, and Tailwind. The game can be run locally, and it offers standard Tetris functionality with intuitive controls and a game-over popup to display the final score.
