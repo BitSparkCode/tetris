@@ -61,7 +61,7 @@ Make sure you have the following installed:
 - **Game Over Popup**: A modal pops up to show your final score with a celebratory message.
 
 ## Screenshots
-![Tetris Game Screenshot](https://example.com/screenshot.png) *(Add an actual screenshot link)*
+![2024-10-20_11-41-31](https://github.com/user-attachments/assets/ba892754-f848-4a94-9cf9-3bd41564382b)
 
 ## Dependencies
 - **Express**: For serving the static files.
