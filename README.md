@@ -1,5 +1,7 @@
 # Tetris Game
 
+![2024-10-20_11-41-31](https://github.com/user-attachments/assets/ba892754-f848-4a94-9cf9-3bd41564382b)
+
 ## Project Overview
 This is a simple Tetris game built using Node.js, HTML, CSS, and Tailwind. The game can be run locally, and it offers standard Tetris functionality with intuitive controls and a game-over popup to display the final score.
 
@@ -59,9 +61,6 @@ Make sure you have the following installed:
 - **Real-Time Preview**: See the next tetromino that will appear in a 4x2 grid.
 - **Leveling Up**: The level increases as the score increases, speeding up the game.
 - **Game Over Popup**: A modal pops up to show your final score with a celebratory message.
-
-## Screenshots
-![2024-10-20_11-41-31](https://github.com/user-attachments/assets/ba892754-f848-4a94-9cf9-3bd41564382b)
 
 ## Dependencies
 - **Express**: For serving the static files.
